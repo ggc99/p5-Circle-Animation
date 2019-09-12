@@ -9,6 +9,7 @@ let circleSize = 50;
 //Global variables
 var circles = [];
 let allColors = [];
+//A General speed for circles (def: 0.5)
 let generalVelocity = 0.5;
 
 let menu;
